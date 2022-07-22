@@ -2,7 +2,7 @@
 
 Preface: This is in no way an original idea, the code is based heavily on the article by [Andy Sloane](https://www.a1k0n.net/2011/07/20/donut-math.html). 
 
-Its a pretty cool piece of code which he originally did in C. 
+It's a pretty cool piece of code which he originally did in C. 
 
 
 I decided to try and convert the code from C to python to cement my python syntax and also brush up on my linear algebra. 
